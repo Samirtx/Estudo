@@ -41,6 +41,7 @@ namespace Empresa
             Console.WriteLine("Lista de valores acrentada:");
             foreach (Empregado obj in Lista)
                 Console.WriteLine(obj);
+            Console.WriteLine("Até mais pessoal!");
 
         }
     }
