@@ -42,6 +42,7 @@ namespace Empresa
             foreach (Empregado obj in Lista)
                 Console.WriteLine(obj);
             Console.WriteLine("Até mais pessoal!");
+            Console.WriteLine("Fiquem com Deus!");
 
         }
     }
